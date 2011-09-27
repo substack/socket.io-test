@@ -1,0 +1,28 @@
+{
+    "name" : "socket.io-test",
+    "version" : "0.0.0",
+    "description" : "testling test suite for socket.io",
+    "directories" : {
+        "lib" : ".",
+        "test" : "test"
+    },
+    "repository" : {
+        "type" : "git",
+        "url" : "http://github.com/substack/socket.io-test.git"
+    },
+    "dependencies" : {
+        "socket.io" : "0.8.4"
+    },
+    "keywords" : [
+        "socket.io",
+        "test",
+        "testling"
+    ],
+    "author" : {
+        "name" : "James Halliday",
+        "email" : "mail@substack.net",
+        "url" : "http://substack.net"
+    },
+    "license" : "MIT/X11",
+    "engine" : { "node" : ">=0.4" }
+}
